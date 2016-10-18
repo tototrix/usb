@@ -1,0 +1,9 @@
+
+R212:
+   * Suppression des valeurs de debug pour les cycles de calage auto et pour le 1er init
+
+R211:
+   * Les cycles de calage automatique de la bande mère basse sont forcés tous les 15 cycles.
+     Le programme est appliqué sur le modèle Hito pour identifier l'origine du défaut 17.
+   * 1er init après 10 cycles en auto.
+

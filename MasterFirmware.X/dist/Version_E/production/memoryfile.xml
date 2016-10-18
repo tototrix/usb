@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/Version_E/production/R041_MasterFirmware.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>6252</used>
+      <free>1940</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>109044</length>
+      <used>86463</used>
+      <free>22581</free>
+    </memory>
+  </executable>
+</project>
